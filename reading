@@ -8,6 +8,7 @@ git init
 	git add file/foldername
 		--> we are staging the files and folders in 'practice-git'
 		local --> path--> remote
+<<<<<<< HEAD
 3. git commit -m "im learning git"	
 4. git remote add origin https://github.com/username/reponame.git
 5. git push -u origin master
@@ -18,3 +19,6 @@ added line sushma
 
 
 
+=======
+3. git commit -m "im learning git"		
+>>>>>>> parent of 8cf5ee3... Create reading
