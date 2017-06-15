@@ -9,3 +9,6 @@ git init
 		--> we are staging the files and folders in 'practice-git'
 		local --> path--> remote
 3. git commit -m "im learning git"		
+
+------
+added line mad
