@@ -1,0 +1,11 @@
+> we write code
+> remote repo push (outside of our machine)
+> local code
+-------
+1. right click, open in git bash
+git init
+2. git add .
+	git add file/foldername
+		--> we are staging the files and folders in 'practice-git'
+		local --> path--> remote
+3. git commit -m "im learning git"		
